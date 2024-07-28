@@ -1,0 +1,7 @@
+1. All features should be bug-free, producing intended behaviour.
+2. Unit tests have been written and passed for all new functionality.
+3. All code should be documented/commented effectively for future referral and understanding. Pushed code has been peer-reviewed by at least 1 other member.
+4. All features proposed in the User Story have been implemented.
+5. User manual documentation must be completed for the implemented feature, including at least 1 screenshot.
+
+DoD created as group.
